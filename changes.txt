@@ -1,0 +1,67 @@
+----- 1.2.10 (29 March 2022) -----
+Fixed: WordPress 5.9.2 compatibility
+Fixed: Demo Import Updated
+Fixed: Elementor 3.6.1 compatibility
+
+
+----- 1.2.9 (06 Dec 2021) -----
+Fixed: Theme Option Updated
+New: Demo Import Updated
+New: Droit Dark Mode (Plugin Included)
+New: WordPress 5.8.2 compatibility
+
+
+
+----- 1.2.8 (06 April 2021) -----
+Fixed: Title bar background image and Overlay color.
+Fixed: Submenu hover color.
+Fixed: Footer background image.
+New: Child theme included
+
+----- 1.2.7 (10 March 2021) -----
+Fixed: Normal Header & sticky herader background color settings from Theme Settings > Header Setting > Header Styling
+Fixed: Portfolio widget hover effect (Safari Browser)
+New: Droit Elementor Addon (Plugin Included)
+
+----- 1.2.6 (07 September 2020) -----
+Fixed: Showing both logos (main logo and sticky logo) for Header one
+New: Theme Settings > Header > Header Content > Sticky Header (enable/disable) switcher option added
+New: Theme Settings > Header > Header Content > Overlay Menu Bottom (show/hide) switcher option added
+New: RTL computability added
+
+----- 1.2.5 (27 August 2020) -----
+Fixed: Color picker issue in WordPress 5.5
+Updated: Language file (.pot file)
+
+----- 1.2.4 (18 December 2019) -----
+New: Version changelog notice upon the theme update/activation
+Fixed: Hero (Particle style)
+Tweaked: Theme Settings > Header Settings > Logo (some custom options are added for text logo)
+Updated: ACF plugin
+
+----- 1.2.3 (24 September 2019) -----
+Fixed: Menu
+
+----- 1.2.2 (12 September 2019) -----
+Tweaked: Dropdown Menu Support added
+Tweaked: Hero Section (Particles Color filed added)
+
+----- 1.2.1 (30 August 2019) -----
+Tweaked: Testimonial Elementor Widget
+Tweaked: Show/Hide Option added for Title Appended Underscore
+Fixed: Logo Option in Theme Settings page
+
+----- 1.2.0 (26 July 2019) -----
+Fixed: A JavaScript console error
+Tweaked: Section Padding control added to Elementor Widgets
+New: Filterable Portfolio
+New: Colors and Typography Settings
+Updated: Demo Contents
+
+----- 1.1.0 (26 July 2019) -----
+Tweaked: The design of the theme.
+Updated: Demo Contents
+
+----- 1.0.0 (19 July 2019) -----
+Fixed: Initial elements
+New: Job Listing, Job Details, Job Apply and Request pages
